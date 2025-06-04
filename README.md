@@ -95,6 +95,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 ## 👩‍💻 Author
 
-** AR Keerthana**
+**AR Keerthana**
 @keerthana777z
 
