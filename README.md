@@ -63,7 +63,9 @@ The **Netflix Landing Page** is a front-end clone of the official Netflix homepa
 
 ## 📸 Screenshots
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
+![Screenshot](./Screenshot1.png)
+![Screenshot](./Screenshot2.png)
 
 
 
@@ -93,5 +95,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 ## 👩‍💻 Author
 
-**Keerthana**
+** AR Keerthana**
+@keerthana777z
 
