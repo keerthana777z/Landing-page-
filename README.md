@@ -65,7 +65,7 @@ The **Netflix Landing Page** is a front-end clone of the official Netflix homepa
 
 ![Screenshot](./screenshot.png)
 
-> *Replace `screenshot.png` with your actual UI screenshot.*
+
 
 ---
 
